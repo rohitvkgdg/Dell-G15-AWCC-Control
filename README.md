@@ -1,4 +1,4 @@
-# Dell G15 AWCC Controller for Linux
+# Dell G15 AWCC Controller for Linux (Arch)
 
 This repository provides a pre-built tool to control the "G-Mode" (or "Game Shift") functionality on Dell G15 laptops running Arch-based Linux distributions. Since Alienware Command Center (AWCC) isn't officially supported on Linux, this tool offers a way to enable/disable G-Mode and control your fan settings, which can boost performance when gaming or doing resource intensive tasks.
 
