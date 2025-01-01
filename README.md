@@ -19,9 +19,9 @@ This repository provides a pre-built tool to control the "G-Mode" (or "Game Shif
         ```
        or
         ```bash
-            git clone https://aur.archlinux.org/acpi_call.git
-            cd acpi_call
-            makepkg -si
+        git clone https://aur.archlinux.org/acpi_call.git
+        cd acpi_call
+        makepkg -si
         ```
         Alternatively, you can install `acpi_call_lts` or `acpi_call-dkms` if needed.
     - **Note:** This tool requires root privileges to control system settings. If you're using a standard Arch Linux setup, you likely already have the necessary tools for handling sudo. If not you might need to install a tool like `sudo` which lets you run commands with administrator rights.
